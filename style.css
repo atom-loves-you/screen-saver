@@ -1,0 +1,9 @@
+body,html {
+  margin: 0;
+  height: 100%;
+  overflow: hidden;
+}
+
+#world {
+  background-color: #1d1f20;
+}
